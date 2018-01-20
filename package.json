@@ -13,8 +13,8 @@
     "w3cjs": "./bin/w3cjs"
   },
   "dependencies": {
-    "commander": "^2.9.0",
-    "superagent": "^3.5.2",
+    "commander": "^2.13.0",
+    "superagent": "^3.8.2",
     "superagent-proxy": "^1.0.2"
   },
   "devDependencies": {},
