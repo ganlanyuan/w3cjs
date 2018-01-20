@@ -1,5 +1,5 @@
 
-[![Build Status](https://secure.travis-ci.org/thomasdavis/w3cjs.png?branch=master)](http://travis-ci.org/ganlanyuan/w3cjs)
+[![Build Status](https://secure.travis-ci.org/ganlanyuan/w3cjs.png?branch=master)](http://travis-ci.org/ganlanyuan/w3cjs)
 [![Dependencies](https://david-dm.org/ganlanyuan/w3cjs.png)](https://david-dm.org/ganlanyuan/w3cjs)
 
 # w3cjs
