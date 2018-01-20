@@ -3,7 +3,7 @@
   "name": "@ganlanyuan/w3cjs",
   "description": "A node.js module for using the w3c validator.",
   "license": "Unlicense",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/thomasdavis/w3cjs"
