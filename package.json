@@ -1,6 +1,6 @@
 {
   "author": "Thomas Davis <thomasalwyndavis@gmail.com>",
-  "name": "ganlanyuan@w3cjs",
+  "name": "@ganlanyuan/w3cjs",
   "description": "A node.js module for using the w3c validator.",
   "license": "Unlicense",
   "version": "0.4.1",
